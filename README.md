@@ -46,7 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Related Articles
-[How to install Flowbite & TailwindCSS in Laravel?](https://www.codersvibe.com/how-to-install-flowbite-tailwindcss-in-laravel)
-[How to get env variables in Laravel React Application?](https://www.codersvibe.com/how-to-get-env-variables-in-laravel-react-application)
-[How to add days to date in JavaScript?](https://www.codersvibe.com/how-to-add-days-to-date-in-javascript)
-[How to remove special characters from string in jQuery or JavaScript?](https://www.codersvibe.com/how-to-remove-special-characters-from-string-in-jquery-or-javascript)
+### [How to install Flowbite & TailwindCSS in Laravel?](https://www.codersvibe.com/how-to-install-flowbite-tailwindcss-in-laravel)
+### [How to get env variables in Laravel React Application?](https://www.codersvibe.com/how-to-get-env-variables-in-laravel-react-application)
+### [How to add days to date in JavaScript?](https://www.codersvibe.com/how-to-add-days-to-date-in-javascript)
+### [How to remove special characters from string in jQuery or JavaScript?](https://www.codersvibe.com/how-to-remove-special-characters-from-string-in-jquery-or-javascript)
